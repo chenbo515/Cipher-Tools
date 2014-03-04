@@ -1,9 +1,3 @@
-
-
-
-
-
-
 class matrix:
     def __init__(self):
         self.array=[[0 for col in range(5)] for row in range(5)]
